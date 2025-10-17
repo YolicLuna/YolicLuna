@@ -9,7 +9,7 @@ Actualmente me encuentro desarrollando mi camino profesional en el área de **Ci
 
 - **Ciencia y Análisis de Datos:** Python, SQL (MySQL), estadística, limpieza y visualización de datos.  
 - **Inteligencia Artificial y Machine Learning:** En formación, con conocimientos en IA aplicada y fundamentos de modelos predictivos.  
-- **Servicios en la nube (Cloud):** Familiarizado con **Microsoft Azure** en soluciones de IA y administración básica en la nube y **AWS** con el cual hace poco comencé a aprender.
+- **Servicios en la nube (Cloud):** Familiarizado con **Microsoft Azure** en soluciones de IA y administración básica en la nube y **AWS** con el cual hace poco inicie mi aprendizaje.
 
 ---
 
