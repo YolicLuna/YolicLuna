@@ -20,7 +20,7 @@ Actualmente me encuentro desarrollando mi camino profesional en el área de **Ci
 | **Lenguajes** | Python, SQL, HTML, CSS, JavaScript |
 | **Bibliotecas para datos** | Pandas, NumPy, Matplotlib, Scikit-learn |
 | **Bases de datos** | MySQL |
-| **Cloud** | Azure (AZ-900, AI-900, AI-102 en progreso), AWS (Cloud Practitioner en progreso y AI Practitioner próximamente) |
+| **Cloud** | Azure (AZ-900, AI-900, AI-102 en progreso) |
 | **Otras herramientas** | Excel, Git y GitHub, Jupyter Notebooks, Flask |
 
 ---
@@ -35,8 +35,8 @@ Mi formación se basa principalmente en **cursos especializados y bootcamps**, c
 - Bootcamp **AI-102 (Microsoft Azure)** - En progreso  
 - Fundamentos sólidos en **algoritmos y estructuras de datos** para mejorar mi lógica de programación  
 
-**Próximos objetivos de aprendizaje:**
-- Bootcamps en **AI Engineer con Python** y **AWS AI Practitioner** (inicio 2026)  
+**Próximos objetivos de aprendizaje (inicio 2026):**
+- Bootcamps en **AI Engineer con Python** y **AWS Cloud Practitioner e AI Practitioner** 
 - **Power BI** y **Tableau** para visualización avanzada de datos  
 - Backend con **Flask** y **Django**  
 - Profundización en **JavaScript**, HTML y CSS para desarrollo web fullstack
