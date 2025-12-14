@@ -21,7 +21,7 @@ Actualmente me encuentro desarrollando mi camino profesional en el área de **Ci
 | **Bibliotecas para datos** | Pandas, NumPy, Matplotlib, Scikit-learn |
 | **Bases de datos** | MySQL |
 | **Cloud** | Azure (AZ-900, AI-900, AI-102 en progreso) |
-| **Otras herramientas** | Excel, Git y GitHub, Jupyter Notebooks, Flask |
+| **Otras herramientas** | Excel, Git y GitHub, Jupyter Notebooks, Flask, Power BI |
 
 ---
 
