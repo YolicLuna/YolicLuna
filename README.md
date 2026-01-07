@@ -16,7 +16,8 @@ Mi enfoque es aprender de forma progresiva, entendiendo bien los fundamentos y a
 
 ---
 
-## ⚙️ Tecnologías que ya utilizo con confianza
+## ⚙️ Conocimientos en tecnologias y herramientas
+
 ### 🟢 Nivel básico → intermedio (uso real y constante)
 
 - Excel
