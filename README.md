@@ -16,7 +16,20 @@ Mi enfoque es aprender de forma progresiva, entendiendo bien los fundamentos y a
 
 ---
 
-## ⚙️ Conocimientos en tecnologias y herramientas
+## 🌱 En constante aprendizaje
+
+Actualmente sigo profundizando en:
+- Análisis y ciencia de datos
+- Inteligencia artificial aplicada
+- Machine Learning
+- Visualización y storytelling con datos
+- Buenas prácticas de desarrollo y uso de IA
+
+Mi objetivo es crecer de forma sólida, entendiendo bien los fundamentos antes de avanzar a niveles más complejos.
+
+---
+
+## ⚙️ Conocimientos en tecnologías y herramientas
 
 ### 🟢 Nivel básico → intermedio (uso real y constante)
 
@@ -41,22 +54,72 @@ Mi enfoque es aprender de forma progresiva, entendiendo bien los fundamentos y a
 
 ### 🟡 Tecnologías en aprendizaje activo
 
-- Python para datos
-  - Pandas (limpieza, transformación y análisis inicial de datos)
-  - NumPy (operaciones numéricas)
-  - Matplotlib (visualización de datos)
-    
-- Machine Learning (fundamentos)
-  - Scikit-learn
-  - Clasificación de datos
-  - Primeros modelos de aprendizaje automático
+> Tecnologías que sigo estudiando y practicando actualmente, siendo estas mi enfoque primordial.
 
-- Power BI
-  - Visualización de datos
-  - Modelo relacional
-  - Limpieza y transformación con Power Query
-  - Medidas básicas con DAX
-  - Jerarquías y tablas de calendario
+### 📊 Python para datos
+
+- Pandas  
+  - Limpieza, transformación y análisis inicial de datos  
+- NumPy  
+  - Operaciones numéricas y trabajo con arrays  
+- Matplotlib  
+  - Visualización de datos y exploración gráfica  
+
+---
+
+### 🤖 Machine Learning (fundamentos)
+
+- Scikit-learn  
+- Clasificación de datos  
+- Primeros modelos de aprendizaje automático  
+- Aplicación de ML como parte del flujo de ciencia de datos  
+
+---
+
+### 🗄️ SQL / MySQL (especialización en progreso)
+
+- Profundización en SQL avanzado:
+  - JOINs complejos  
+  - Subconsultas  
+  - Funciones  
+  - Triggers
+  - Vistas
+  - Procedimientos
+  - Transacciones
+  - Eventos
+- Análisis de datos directamente desde bases de datos  
+- Buenas prácticas de modelado relacional
+
+---
+
+### 📈 Power BI
+
+- Visualización de datos  
+- Modelo relacional  
+- Limpieza y transformación con Power Query  
+- Medidas básicas con DAX  
+- Jerarquías y tablas de calendario  
+
+---
+
+### 🧠 Algoritmos y Estructura de Datos
+
+- Estudio de algoritmos y estructuras de datos a un nivel más avanzado  
+- Mejora de lógica y eficiencia en programación  
+- Contribución al desarrollo como científico de datos y programador 
+
+> *Este conocimiento es transversal y complementa mi formación en datos e IA.*
+
+---
+
+### 🌐 Desarrollo de software (en segundo plano)
+
+> *No es mi enfoque principal, pero sigo aprendiendo y practicando.*
+
+- Backend con Python (Flask)
+- Introducción progresiva a Django y FastAPI
+- HTML, CSS y JavaScript 
+- Desarrollo de aplicaciones como complemento a proyectos de datos e IA
 
 ---
 
@@ -79,7 +142,9 @@ A través de cursos y práctica he estudiado:
 - ✅ **Microsoft Azure AI Fundamentals (AI-900)** — Certificación obtenida  
 - 📘 **AZ-900 (Azure Fundamentals)** — Estudiado 
 - 📘 **AZ-104 (Azure Administrator)** — Estudiado
-- 📘 **AI-102 (Azure AI Engineer)** — En proceso de estudio  
+- 📘 **AWS AI Practitioner** — Próximamente  
+- 📘 **AWS Cloud Practitioner** — Próximamente
+
 
 ---
 
@@ -90,19 +155,6 @@ A través de cursos y práctica he estudiado:
 - Visual Studio Code
 - HTML, CSS y JavaScript (fundamentos)
 - Flask (fundamentos de backend)
-
----
-
-## 🌱 En constante aprendizaje
-
-Actualmente sigo profundizando en:
-- Análisis y ciencia de datos
-- Inteligencia artificial aplicada
-- Machine Learning
-- Visualización y storytelling con datos
-- Buenas prácticas de desarrollo y uso de IA
-
-Mi objetivo es crecer de forma sólida, entendiendo bien los fundamentos antes de avanzar a niveles más complejos.
 
 ---
 
