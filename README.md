@@ -16,16 +16,17 @@ Mi enfoque es aprender de forma progresiva, entendiendo bien los fundamentos y a
 
 ---
 
-## 🌱 En constante aprendizaje
-
-Actualmente sigo profundizando en:
-- Análisis y ciencia de datos
-- Inteligencia artificial aplicada
-- Machine Learning
-- Visualización y storytelling con datos
-- Buenas prácticas de desarrollo y uso de IA
-
-Mi objetivo es crecer de forma sólida, entendiendo bien los fundamentos antes de avanzar a niveles más complejos.
+!![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-217346.svg)
+![MySQL](https://img.shields.io/badge/MySQL-Relational%20Database-00758F.svg)
+![Python](https://img.shields.io/badge/Python-Programming-blue.svg)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud%20%26%20AI-0078D4.svg)
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-FFC300.svg)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-yellow.svg)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red.svg)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange.svg)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032.svg)
+![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717.svg)
 
 ---
 
@@ -75,6 +76,8 @@ Mi objetivo es crecer de forma sólida, entendiendo bien los fundamentos antes d
 - Aplicación de ML como parte del flujo de ciencia de datos  
 
 ---
+
+> Partiendo de una base sólida en SQL, actualmente me encuentro profundizando en conceptos más avanzados.
 
 ### 🗄️ SQL / MySQL (especialización en progreso)
 
@@ -142,9 +145,9 @@ A través de cursos y práctica he estudiado:
 - ✅ **Microsoft Azure AI Fundamentals (AI-900)** — Certificación obtenida  
 - 📘 **AZ-900 (Azure Fundamentals)** — Estudiado 
 - 📘 **AZ-104 (Azure Administrator)** — Estudiado
+- 📘 **AI-102 (Azure AI Engineer)** — En proceso de estudio
 - 📘 **AWS AI Practitioner** — Próximamente  
 - 📘 **AWS Cloud Practitioner** — Próximamente
-
 
 ---
 
@@ -155,6 +158,19 @@ A través de cursos y práctica he estudiado:
 - Visual Studio Code
 - HTML, CSS y JavaScript (fundamentos)
 - Flask (fundamentos de backend)
+
+---
+
+## 🌱 En constante aprendizaje
+
+Actualmente sigo profundizando en:
+- Análisis y ciencia de datos
+- Inteligencia artificial aplicada
+- Machine Learning
+- Visualización y storytelling con datos
+- Buenas prácticas de desarrollo y uso de IA
+
+Mi objetivo es crecer de forma sólida, entendiendo bien los fundamentos antes de avanzar a niveles más complejos.
 
 ---
 
