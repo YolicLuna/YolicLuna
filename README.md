@@ -45,7 +45,7 @@ Mi enfoque es aprender de forma progresiva, entendiendo bien los fundamentos y a
   - Pandas (limpieza, transformación y análisis inicial de datos)
   - NumPy (operaciones numéricas)
   - Matplotlib (visualización de datos)
-  - 
+    
 - Machine Learning (fundamentos)
   - Scikit-learn
   - Clasificación de datos
