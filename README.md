@@ -16,7 +16,7 @@ Mi enfoque es aprender de forma progresiva, entendiendo bien los fundamentos y a
 
 ---
 
-!![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-217346.svg)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-217346.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-Relational%20Database-00758F.svg)
 ![Python](https://img.shields.io/badge/Python-Programming-blue.svg)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud%20%26%20AI-0078D4.svg)
