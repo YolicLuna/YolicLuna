@@ -143,11 +143,11 @@ A través de cursos y práctica he estudiado:
 ## ☁️ Cloud & Certificaciones
 
 - ✅ **Microsoft Azure AI Fundamentals (AI-900)** — Certificación obtenida  
-- 📘 **AZ-900 (Azure Fundamentals)** — Estudiado 
-- 📘 **AZ-104 (Azure Administrator)** — Estudiado
-- 📘 **AI-102 (Azure AI Engineer)** — En proceso de estudio
+- 📘 **AZ-900 (Azure Fundamentals)**
+- 📘 **AZ-104 (Azure Administrator)**
+- 📘 **AI-102 (Azure AI Engineer)**
 - 📘 **AWS AI Practitioner** — Próximamente  
-- 📘 **AWS Cloud Practitioner** — Próximamente
+- 📘 **AWS Cloud Practitioner**
 
 ---
 
