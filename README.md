@@ -144,10 +144,7 @@ A través de cursos y práctica he estudiado:
 
 - ✅ **Microsoft Azure AI Fundamentals (AI-900)** — Certificación obtenida  
 - 📘 **AZ-900 (Azure Fundamentals)**
-- 📘 **AZ-104 (Azure Administrator)**
 - 📘 **AI-102 (Azure AI Engineer)**
-- 📘 **AWS AI Practitioner** — Próximamente  
-- 📘 **AWS Cloud Practitioner**
 
 ---
 
@@ -158,6 +155,7 @@ A través de cursos y práctica he estudiado:
 - Visual Studio Code
 - HTML, CSS y JavaScript (fundamentos)
 - Flask (fundamentos de backend)
+- FastAPI (Fundamentos de Backend)
 
 ---
 
