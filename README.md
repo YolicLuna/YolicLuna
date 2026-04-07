@@ -67,9 +67,9 @@ Mi objetivo es crecer de forma sólida, entendiendo bien los fundamentos antes d
 
 - 📧 **Email:** yolicdev@gmail.com  
 - 💻 **GitHub:** [YolicLuna](https://github.com/YolicLuna)  
-- 💼 **LinkedIn:** [José Yolic](https://www.linkedin.com/in/joseyolic)  
+- 💼 **LinkedIn:** [José Yolic](https://www.linkedin.com/in/joseyolic)
+- **Sigueme en Facebook**: [DevMoon](https://www.facebook.com/profile.php?id=61577337963360)
 - 🤝 Abierto a colaborar y aprender en proyectos de datos, IA y desarrollo.
-- :facebook_f: [DevMoon](https://www.facebook.com/profile.php?id=61577337963360)
 
 ---
 ¡Gracias por visitar mi perfil! 🚀
