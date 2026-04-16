@@ -47,9 +47,9 @@ Mi enfoque es aprender de forma progresiva, entendiendo bien los fundamentos y a
 - 🌐 **Desarrollo de software (en segundo plano).**
 - 🤖 **Inteligencia Artificial – conocimientos adquiridos.**
 - ☁️ **Cloud & Certificaciones.**
-- ✅ Microsoft Azure AI Fundamentals (AI-900)** — Certificación obtenida.  
-- 📘 AZ-900 (Azure Fundamentals).**
-- 📘 AI-102 (Azure AI Engineer).**
+- ✅ Microsoft Azure AI Fundamentals (AI-900) — Certificación obtenida.  
+- 📘 AZ-900 (Azure Fundamentals).
+- 📘 AI-102 (Azure AI Engineer).
 
 ## 🌱 En constante aprendizaje
 Actualmente sigo profundizando en:
