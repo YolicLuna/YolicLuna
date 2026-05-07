@@ -13,6 +13,7 @@ Mi enfoque es aprender de forma progresiva, entendiendo bien los fundamentos y a
 - **Ciencia de Datos (en formación):** Estadística básica, visualización, manejo de datasets y primeros modelos de ML.
 - **Inteligencia Artificial:** Fundamentos de IA, machine learning y uso responsable de IA generativa.
 - **Cloud (Azure):** Conocimientos sólidos en fundamentos y administración, enfocados en servicios de datos e IA.
+- **Desarrollo Backend:** Construcción de APIs RESTful con FastAPI, autenticación JWT y manejo de bases de datos relacionales.
 
 ---
 
@@ -25,6 +26,8 @@ Mi enfoque es aprender de forma progresiva, entendiendo bien los fundamentos y a
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-yellow.svg)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red.svg)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend%20Development-009688.svg)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-red.svg)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032.svg)
 ![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717.svg)
 
@@ -36,6 +39,8 @@ Mi enfoque es aprender de forma progresiva, entendiendo bien los fundamentos y a
 - **Excel.**
 - **SQL (MySQL).**
 - **Python.**
+- **FastAPI** — Construcción de APIs RESTful con endpoints, routers y documentación automática.
+- **SQLAlchemy** — Manejo de modelos ORM, relaciones entre tablas y sesiones de base de datos.
 
 ### 🟡 Tecnologías en aprendizaje activo
 
@@ -45,11 +50,16 @@ Mi enfoque es aprender de forma progresiva, entendiendo bien los fundamentos y a
 - 📈 **Power BI.**
 - 🧠 **Algoritmos y Estructura de Datos.**
 - 🌐 **Desarrollo de software (en segundo plano).**
+  - **Pydantic** — Validación y serialización de datos en APIs.
+  - **JWT (JSON Web Tokens)** — Autenticación y autorización con tokens seguros.
+  - **pytest** — Pruebas automatizadas de endpoints REST.
+  - **Alembic** — Migraciones de base de datos.
+  - **Arquitectura por capas** — Separación de modelos, schemas, CRUD, dependencias y API.
 - 🤖 **Inteligencia Artificial – conocimientos adquiridos.**
 - ☁️ **Cloud & Certificaciones.**
-- ✅ Microsoft Azure AI Fundamentals (AI-900) — Certificación obtenida.  
-- 📘 AZ-900 (Azure Fundamentals).
-- 📘 AI-102 (Azure AI Engineer).
+  - ✅ Microsoft Azure AI Fundamentals (AI-900) — Certificación obtenida.  
+  - 📘 Azure Fundamentals (AZ-900).
+  - 📘 Azure AI Engineer (AI-102).
 
 ## 🌱 En constante aprendizaje
 Actualmente sigo profundizando en:
@@ -57,6 +67,7 @@ Actualmente sigo profundizando en:
 - Inteligencia artificial aplicada.
 - Machine Learning.
 - Visualización y storytelling con datos.
+- Desarrollo backend y buenas prácticas de arquitectura de software.
 - Buenas prácticas de desarrollo y uso de IA.
 
 Mi objetivo es crecer de forma sólida, entendiendo bien los fundamentos antes de avanzar a niveles más complejos.
