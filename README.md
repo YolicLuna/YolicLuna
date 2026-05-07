@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy José Yolic
 
-Soy un entusiasta de la tecnología y los datos, ubicado en México 🇲🇽.  
+Soy un entusiasta de la tecnología y los datos, ubicado en México.  
 Actualmente estoy construyendo mi perfil profesional en el área de **Datos, Ciencia de Datos e Inteligencia Artificial**, combinando bases técnicas sólidas con práctica constante.
 
 Mi enfoque es aprender de forma progresiva, entendiendo bien los fundamentos y avanzando hacia soluciones más complejas en análisis de datos, automatización e IA aplicada.
