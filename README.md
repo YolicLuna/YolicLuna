@@ -25,7 +25,6 @@ Mi enfoque es aprender de forma progresiva, entendiendo bien los fundamentos y a
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-yellow.svg)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red.svg)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend%20Development-009688.svg)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-red.svg)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032.svg)
