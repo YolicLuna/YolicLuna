@@ -58,6 +58,8 @@ Mi enfoque es aprender de forma progresiva, entendiendo bien los fundamentos y a
 - 🤖 **Inteligencia Artificial – conocimientos adquiridos.**
 - ☁️ **Cloud & Certificaciones.**
   - ✅ Microsoft Azure Data Fundamentals (DP-900) — Certificación obtenida.
+  - ✅ Microsoft Azure Fundamentals (AZ-900) — Certificación obtenida.
+  - ✅ Microsoft Certified: Security, Compliance, and Identity Fundamentalss (SC-900) — Certificación obtenida.
   - ✅ Microsoft Azure AI Fundamentals (AI-900) — Certificación obtenida.  
 
 ## 🌱 En constante aprendizaje
