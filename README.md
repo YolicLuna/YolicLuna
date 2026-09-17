@@ -22,6 +22,7 @@ Mi enfoque es aprender de forma progresiva, entendiendo bien los fundamentos y a
 ![Python](https://img.shields.io/badge/Python-Programming-blue.svg)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud%20%26%20AI-0078D4.svg)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-FFC300.svg)
+![Snowflake](https://img.shields.io/badge/Snowflake-Basic%20Level-29B5E8.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-yellow.svg)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red.svg)
@@ -43,11 +44,15 @@ Mi enfoque es aprender de forma progresiva, entendiendo bien los fundamentos y a
 
 ### 🟡 Tecnologías en aprendizaje activo
 
-- 📊 **Python para datos.**
-- 🤖 **Machine Learning (fundamentos).**
+- 📊 **Python.**
+- ☁️ **Cloud & Certificaciones.**
+  - ✅ Microsoft Azure Data Fundamentals (DP-900) — Certificación obtenida.
+  - ✅ Microsoft Azure Fundamentals (AZ-900) — Certificación obtenida.
+  - ✅ Microsoft Security, Compliance, and Identity Fundamentalss (SC-900) — Certificación obtenida.
+  - ✅ Microsoft Azure AI Fundamentals (AI-900) — Certificación obtenida. 
 - 🗄️ **SQL / MySQL (especialización en progreso).**
 - 📈 **Power BI.**
-- 🧠 **Algoritmos y Estructura de Datos.**
+- ❄️ **Snowflake (nivel básico, primeras prácticas de conexión, consultas y análisis de datos).**
 - 🌐 **Desarrollo de software (en segundo plano).**
   - **Pydantic** — Validación y serialización de datos en APIs.
   - **JWT (JSON Web Tokens)** — Autenticación y autorización con tokens seguros.
@@ -55,11 +60,8 @@ Mi enfoque es aprender de forma progresiva, entendiendo bien los fundamentos y a
   - **Alembic** — Migraciones de base de datos.
   - **Arquitectura por capas** — Separación de modelos, schemas, CRUD, dependencias y API.
 - 🤖 **Inteligencia Artificial – conocimientos adquiridos.**
-- ☁️ **Cloud & Certificaciones.**
-  - ✅ Microsoft Azure Data Fundamentals (DP-900) — Certificación obtenida.
-  - ✅ Microsoft Azure Fundamentals (AZ-900) — Certificación obtenida.
-  - ✅ Microsoft Security, Compliance, and Identity Fundamentalss (SC-900) — Certificación obtenida.
-  - ✅ Microsoft Azure AI Fundamentals (AI-900) — Certificación obtenida.  
+- 🤖 **Machine Learning (fundamentos).**
+- 🧠 **Algoritmos y Estructura de Datos.**
 
 ## 🌱 En constante aprendizaje
 Actualmente sigo profundizando en:
