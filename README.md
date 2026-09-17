@@ -22,7 +22,7 @@ Mi enfoque es aprender de forma progresiva, entendiendo bien los fundamentos y a
 ![Python](https://img.shields.io/badge/Python-Programming-blue.svg)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud%20%26%20AI-0078D4.svg)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-FFC300.svg)
-![Snowflake](https://img.shields.io/badge/Snowflake-Basic%20Level-29B5E8.svg)
+![Snowflake](https://img.shields.io/badge/Snowflake-Cloud%20Data%20Platform-29B5E8.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-yellow.svg)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red.svg)
